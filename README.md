@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Happy Valentine ❤️</title>
+  <title>Happy Rose Day🌹❤️</title>
   <style>
     body {
       margin: 0;
@@ -126,11 +126,11 @@
 <body>
 
   <div class="card">
-    <h1>Happy Valentine 💖</h1>
+    <h1>Happy Rose Day 💖</h1>
     <div class="main-heart">❤️</div>
 
     <div class="question">
-      Will you be my Valentine? 💌
+      Will you be mine forever? 💌
     </div>
 
     <div class="buttons">
